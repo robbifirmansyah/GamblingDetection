@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 GAMBLING COMMENT DETECTION ML PIPELINE
-Target: F1-score > 0.90 di holdout set
 """
 
 import warnings
